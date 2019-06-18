@@ -1,0 +1,9 @@
+# Kaggle lyric datasets
+lyrics_metrolyrics.csv
+lyrics_lyricsfreak.csv
+
+# Large text files
+rap_genre/input.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
